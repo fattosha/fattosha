@@ -82,6 +82,7 @@ Front-end website project developed during my web development training.
 </p>
 
 <hr /><hr />
+<hr />
 
 ## 🐍 GitHub Contribution Snake
 
