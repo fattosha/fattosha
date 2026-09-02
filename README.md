@@ -83,20 +83,13 @@ Front-end website project developed during my web development training.
 
 <hr />
 
-
-
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/fattosha/fattosha/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/fattosha/fattosha/gh-pages/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
   />
-</p>
-## GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fattosha&theme=radical&hide_border=true" />
 </p>
 
 <hr />
