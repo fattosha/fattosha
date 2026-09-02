@@ -18,7 +18,8 @@ jobs:
         with:
           github_user_name: fattosha
           outputs: |
-            dist/snake-red.svg?color_snake=%23a90000&color_dots=%23080808,%237f0508,%23a90000,%23d8c7b8,%23fbc6a8
+            dist/github-contribution-grid-snake.svg?color_snake=%23a90000&color_dots=%23080808,%237f0508,%23a90000,%23d8c7b8,%23fbc6a8
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%23a90000&color_dots=%23080808,%237f0508,%23a90000,%23d8c7b8,%23fbc6a8
 
       - name: Push snake to gh-pages
         uses: crazy-max/ghaction-github-pages@v4
