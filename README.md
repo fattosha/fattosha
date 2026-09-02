@@ -69,7 +69,10 @@ Responsive website built with HTML and CSS.
 ### NTIONIX
 Front-end website project developed during my web development training.
 
-<hr>
+<hr><div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fattosha&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
+</div>
+
 ## GitHub Stats
 
 <p align="center">
