@@ -42,7 +42,11 @@
 - Data Structures & Algorithms (DSA)
 - Object-Oriented Programming (OOP)
 - SQL
-- Assembly 8086
+- dB
+- php
+- c#
+- python
+  
 
 ### Tools
 
