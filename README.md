@@ -85,12 +85,13 @@ Front-end website project developed during my web development training.
 
 ## 🐍 GitHub Contribution Snake
 
-<p align="center">
+<div align="center">
   <img
     src="https://raw.githubusercontent.com/fattosha/fattosha/gh-pages/github-contribution-grid-snake.svg"
+    width="100%"
     alt="GitHub Contribution Snake"
   />
-</p>
+</div>
 
 <hr />
 
