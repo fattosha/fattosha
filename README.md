@@ -83,7 +83,7 @@ Front-end website project developed during my web development training.
 
 <hr />
 
-## 🐍 GitHub Contribution Snake
+
 
 <div align="center">
   <img
@@ -94,6 +94,17 @@ Front-end website project developed during my web development training.
 </div>
 
 <hr />
+## GitHub Contributions
+
+<div align="center">
+
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=fattosha&bg_color=080808&color=fbc6a8&line=a90000&point=d8c7b8&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+
+</div>
 
 ## Connect With Me
 
