@@ -50,7 +50,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-<hr />
+<hr /><p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=fattosha&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fattosha&layout=compact&theme=radical&hide_border=true" />
+</p>
+
 
 ## Featured Projects
 
@@ -94,18 +101,6 @@ Front-end website project developed during my web development training.
 </div>
 
 <hr />
-## GitHub Contributions
-
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=fattosha&bg_color=080808&color=fbc6a8&line=a90000&point=d8c7b8&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity Graph"
-  />
-
-</div>
-
 ## Connect With Me
 
 <p align="center">
