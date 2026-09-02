@@ -50,14 +50,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-<hr /><p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=fattosha&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fattosha&layout=compact&theme=radical&hide_border=true" />
-</p>
-
+</hr> 
 
 ## Featured Projects
 
@@ -76,7 +69,18 @@ Responsive website built with HTML and CSS.
 ### NTIONIX
 Front-end website project developed during my web development training.
 
-<hr />
+<hr/>###  GitHub Activity
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ameenmv&theme=dark&hide_border=true&stroke=42b883&ring=42b883&fire=42b883&currStreakLabel=42b883" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ameenmv&show_icons=true&count_private=true&theme=dark&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ameenmv&layout=compact&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages graph" />
+</div>
+
 
 ## GitHub Stats
 
