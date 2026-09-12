@@ -125,5 +125,5 @@ Front-end website project developed during my web development training.
   <b>Always learning. Always building.</b>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/fattosha/fatto/gh-pages/github-contribution-grid-snake-dark.svg" />
 </p>
